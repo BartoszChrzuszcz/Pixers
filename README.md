@@ -5,7 +5,7 @@ QA task for Pixers
 - PyCharm Community
 - Selenium Webdriver
 - chromedriver in the newest version
-# Briefe Description
+# Brief Description
 - You will need to download chromedriver.exe and paste it in the project direxotry 
 - after opening code in PyCharm some pachkages can be requried to download if you do not have them allready (e.g. unittests)
 - tests were written for Chrome webbrowser
