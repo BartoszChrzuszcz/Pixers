@@ -1,0 +1,1 @@
+ITEM_QUANTITY = 'TWÓJ KOSZYK ( 1 )'
