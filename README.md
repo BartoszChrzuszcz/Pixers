@@ -14,3 +14,4 @@ QA task for Pixers
 - you can run both of them by running code in testsuite_all_tests.py
 # Possible upgrades
 - the item quantity is received in JSON on the card page, however the requested url is dynamic and consist of ID that is added on the end of it. Right know without knowledge how this ID is being made the check the item quantity is made by using selectors. ID looks like timestamp is converted to integer but it also have got some more numbers.
+- considering adding Allure to produce reports after test runs 
